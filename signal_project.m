@@ -1,6 +1,4 @@
 %%% FRANCISCO GRISANTI  %%%
-%%% PSID 0910372        %%%
-%%% 12/12/2018          %%%
 
 
 clc
